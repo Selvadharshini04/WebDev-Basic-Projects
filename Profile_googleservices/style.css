@@ -1,0 +1,37 @@
+.first-box{
+    width:400px;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    border:1px solid rgba(128, 128, 128, 0.49);
+    border-radius:10px 10px 0px 0px;
+    padding-left: 40px;
+}
+.image{
+    height:100px;
+    display:row;
+    border-radius:100px;
+    padding:30px;
+}
+.para{
+    margin-top: 40px;
+    font-size:xx-large;
+    margin-bottom: 10px;
+}
+.lines{
+    color:rgba(128, 128, 128, 0.968);
+    margin-bottom:0px;
+    font-size: large;
+}
+.second-box{
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid rgba(128, 128, 128, 0.49);
+    border-radius:0px 0px 10px 10px;
+    padding-left: 40px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    color:rgb(77, 151, 224);
+    font-size: x-large;
+}
