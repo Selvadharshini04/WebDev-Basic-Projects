@@ -1,0 +1,16 @@
+
+.box1{
+    border-radius: 10px;
+    margin:50px auto;
+    width:350px;
+    padding:60px 50px;
+    padding-bottom: 110px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgb(53, 225, 142);
+}
+.btn{
+    border:none;
+    border-radius: 40px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
